@@ -1,0 +1,6 @@
+{
+  "name": "Haasaa - Ethiopian Multilingual AI Conversation",
+  "description": "Realistic AI conversation generator in Afaan Oromoo, Amharic, and English with language learning, pronunciation guides, and audio playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
